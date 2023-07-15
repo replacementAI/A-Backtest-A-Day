@@ -9,8 +9,8 @@ Everyday I will be backtesting a different quant strategy for the markets
 |             |        |
 
 ## Abbreviations
-TS = Time Series
-EW = Equal Weight
+- TS = Time Series
+- EW = Equal Weight
 
 ## Credits
 Most of the code was provided by @statarb on Twitter
