@@ -4,7 +4,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 ## Top Backtested Strategies
 
 ### EW XS Long-Only Short-term Reversal
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/b648e01c-e542-4ab8-b030-68cf42a36538)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
 
 | Description                              | Sharpe (avg 3 fold) |
 |------------------------------------------|---------------------|
