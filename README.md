@@ -14,6 +14,8 @@ First I will calculate the sharpe of each strategy over the entire sample, then 
 ## Abbreviations
 - TS = Time Series
 - EW = Equal Weight
+- LS = Long / Short
+- XS = Cross Sectional
 
 ## Credits
 Most of the code was provided by @statarb on Twitter
