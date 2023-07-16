@@ -18,7 +18,7 @@ First I will calculate the sharpe of each strategy over the entire sample, then 
 - XS = Cross Sectional
 
 ## Credits
-Code was provided by @quant_arb on Twitter, I added the cross-validation part to try to better pick parameters.
+Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
 
 [1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Trend%20Following.ipynb>
 [2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Momentum.ipynb>
