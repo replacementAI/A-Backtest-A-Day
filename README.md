@@ -18,4 +18,4 @@ First I will calculate the sharpe of each strategy over the entire sample, then 
 - XS = Cross Sectional
 
 ## Credits
-Most of the code was provided by @statarb on Twitter
+Code was provided by @quant_arb on Twitter
