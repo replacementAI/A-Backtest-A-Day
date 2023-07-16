@@ -18,6 +18,7 @@ First I will calculate the sharpe of each strategy over the entire sample, then 
 - EW = Equal Weight
 - LS = Long Short
 - XS = Cross Sectional
+- Vol = Volatility
 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
