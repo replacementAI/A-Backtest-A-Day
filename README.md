@@ -19,7 +19,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW XS Long-Only Momentum][9]            | 0.5025833917716915  |
 
 ## Methodology
-First I will calculate the sharpe of each strategy over the entire sample, then I will the evaluate performance of each strategy in a 3-fold cross validation to determine the best* parameters.
+First I will calculate the sharpe of each strategy over the entire sample, then I will the evaluate performance of each strategy in a 3-fold cross validation to determine the best* parameters. The tickers used are the SPDR sector ETFs: XLE, XLU, XLB, XLK, XLI, XLV, XLF, XLP, and XLY. There are 3 reasons for using these groups of tickers: 1. Removes survivorship bias problem from using individual tickers 2. These ETFs were launched in 1998, giving a lot of data to work with. 3. Lastly, it is easier for an individual investor to attempt to replicate a strategy using just a few ETFs as opposed to having to a strategy using (for example) 500 stocks.
 
 ## Abbreviations
 - TS = Time Series
