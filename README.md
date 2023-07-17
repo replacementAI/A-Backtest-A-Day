@@ -36,6 +36,7 @@ First I will plot the cumulative return of each strategy over the entire sample,
 - Vol = Volatility
 - Pos = Positive
 - Neg = Negative
+- Opp = Opposite
 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
