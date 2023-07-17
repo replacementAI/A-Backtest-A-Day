@@ -19,7 +19,11 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW XS Long-Only Momentum][9]            | 0.5025833917716915  |
 
 ## Methodology
-First I will calculate the sharpe of each strategy over the entire sample, then I will the evaluate performance of each strategy in a 3-fold cross validation to determine the best* parameters. The tickers used are the SPDR sector ETFs: XLE, XLU, XLB, XLK, XLI, XLV, XLF, XLP, and XLY. There are 3 reasons for using these groups of tickers:
+The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
+### Sharpe Ratio
+The sharpe ratio is the average return of a strategy divided by its risk. Meaning if a strategy has high returns, and low risk, then it will have a high sharpe ratio. Why this metric and not total profit? Because total profit only keeps returns of a strategy in mind, not risk, while sharpe ratio keeps both in mind, allowing you to sleep better at night. 
+### Other
+First I will plot the cumulative return of each strategy over the entire sample, then I will the evaluate the sharpe of each strategy in a 3-fold cross validation to determine the best* parameters. The tickers used are the SPDR sector ETFs: XLE, XLU, XLB, XLK, XLI, XLV, XLF, XLP, and XLY. There are 3 reasons for using these groups of tickers:
 1. Removes survivorship bias problem from using individual tickers
 2. These ETFs were launched in 1998, giving a lot of data to work with.
 3. Lastly, it is easier for an individual investor to attempt to replicate a strategy using just a few ETFs as opposed to having to a strategy using (for example) 500 stocks.
