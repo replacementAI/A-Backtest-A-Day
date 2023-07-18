@@ -32,7 +32,7 @@ First I will plot the cumulative return of each strategy over the entire sample,
 ## Abbreviations
 - TS = Time Series
 - EW = Equal Weight
-- LS = Long Short
+- L\S = Long Short
 - XS = Cross Sectional
 - Vol = Volatility
 - Pos = Positive
