@@ -6,17 +6,17 @@ Everyday I will be backtesting a different quant strategy for the markets
 ### EW XS Long-Only Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
 
-| Description                              | Optimal Lookback (eval on 3 folds) | Sharpe             |
-|------------------------------------------|------------------------------------|--------------------|
-| [EW XS Long-Only Short-term Reversal][1] | 6 Days                             | 0.6243479755318527 |
-| [EW TS Long-Only Short-term Reversal][2] | 4 Days                             | 0.5948150993839677 |
-| [EW TS Long-Only Trend Following][3]     | 111 Days                           | 0.5819755958600765 |
-| [EW XS Long-Only Pos Skew][4]            | 24 Days                            | 0.5595241995242272 |
-| [EW XS Long-Only Low Vol][5]             | 3 Days                             | 0.5484778491819274 |
-| [EW XS Long-Only Pos Kurtosis][6]        | 76 Days                            | 0.5371160392292454 |
-| [EW XS Long-Only Neg Skew][7]            | 107 Days                           | 0.5043078891599437 |
-| [EW TS Long-Only Momentum][8]            | 188 Days                           | 0.5040385748680951 |
-| [EW XS Long-Only Momentum][9]            | 124 Days                           | 0.5025833917716915 |
+| Description                              | Best Lookback (eval on 3 folds) | Sharpe             |
+|------------------------------------------|---------------------------------|--------------------|
+| [EW XS Long-Only Short-term Reversal][1] | 6 Days                          | 0.6243479755318527 |
+| [EW TS Long-Only Short-term Reversal][2] | 4 Days                          | 0.5948150993839677 |
+| [EW TS Long-Only Trend Following][3]     | 111 Days                        | 0.5819755958600765 |
+| [EW XS Long-Only Pos Skew][4]            | 24 Days                         | 0.5595241995242272 |
+| [EW XS Long-Only Low Vol][5]             | 3 Days                          | 0.5484778491819274 |
+| [EW XS Long-Only Pos Kurtosis][6]        | 76 Days                         | 0.5371160392292454 |
+| [EW XS Long-Only Neg Skew][7]            | 107 Days                        | 0.5043078891599437 |
+| [EW TS Long-Only Momentum][8]            | 188 Days                        | 0.5040385748680951 |
+| [EW XS Long-Only Momentum][9]            | 124 Days                        | 0.5025833917716915 |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
