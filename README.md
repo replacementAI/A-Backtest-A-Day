@@ -6,17 +6,17 @@ Everyday I will be backtesting a different quant strategy for the markets
 ### EW XS Long-Only Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
 
-| Description                              | Best Lookback (eval on 3 folds) | Sharpe |
-|------------------------------------------|---------------------------------|--------|
-| [EW XS Long-Only Short-term Reversal][1] | 6 Days                          | 0.624  |
-| [EW TS Long-Only Short-term Reversal][2] | 4 Days                          | 0.595  |
-| [EW TS Long-Only Mean Reversion][3]      | 111 Days                        | 0.582  |
-| [EW XS Long-Only Pos Skew][4]            | 24 Days                         | 0.560  |
-| [EW XS Long-Only Low Vol][5]             | 3 Days                          | 0.548  |
-| [EW XS Long-Only Pos Kurtosis][6]        | 76 Days                         | 0.537  |
-| [EW XS Long-Only Neg Skew][7]            | 107 Days                        | 0.504  |
-| [EW TS Long-Only Momentum][8]            | 188 Days                        | 0.504  |
-| [EW XS Long-Only Momentum][9]            | 124 Days                        | 0.503  |
+| Description                              | Best Lookback (3 folds) | Sharpe |
+|------------------------------------------|-------------------------|--------|
+| [EW XS Long-Only Short-term Reversal][1] | 6 Days                  | 0.624  |
+| [EW TS Long-Only Short-term Reversal][2] | 4 Days                  | 0.595  |
+| [EW TS Long-Only Mean Reversion][3]      | 111 Days                | 0.582  |
+| [EW XS Long-Only Pos Skew][4]            | 24 Days                 | 0.560  |
+| [EW XS Long-Only Low Vol][5]             | 3 Days                  | 0.548  |
+| [EW XS Long-Only Pos Kurtosis][6]        | 76 Days                 | 0.537  |
+| [EW XS Long-Only Neg Skew][7]            | 107 Days                | 0.504  |
+| [EW TS Long-Only Momentum][8]            | 188 Days                | 0.504  |
+| [EW XS Long-Only Momentum][9]            | 124 Days                | 0.503  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
