@@ -10,7 +10,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 |------------------------------------------|---------------------------------|--------|
 | [EW XS Long-Only Short-term Reversal][1] | 6 Days                          | 0.624  |
 | [EW TS Long-Only Short-term Reversal][2] | 4 Days                          | 0.595  |
-| [EW TS Long-Only Trend Following][3]     | 111 Days                        | 0.582  |
+| [EW TS Long-Only Mean Reversion][3]      | 111 Days                        | 0.582  |
 | [EW XS Long-Only Pos Skew][4]            | 24 Days                         | 0.560  |
 | [EW XS Long-Only Low Vol][5]             | 3 Days                          | 0.548  |
 | [EW XS Long-Only Pos Kurtosis][6]        | 76 Days                         | 0.537  |
@@ -44,7 +44,7 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 
 [1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Short-term%20Reversal.ipynb>
 [2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Short-term%20Reversal.ipynb>
-[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Trend%20Following.ipynb>
+[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Mean%20Reversion.ipynb>
 [4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Pos%20Skew.ipynb>
 [5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Low-Vol.ipynb>
 [6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Pos%20Kurt.ipynb>
