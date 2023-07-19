@@ -22,8 +22,8 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Long/Short Strategies
 
-#### EW TS L/S Short-term Reversal
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/203d6e98-718c-4bba-8899-f43dc2b016ed)
+#### EW XS L/S Short-term Reversal
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/64de2acd-6530-4f24-9ee3-c44c15f67e91)
 
 | Description (Long Short)            | Best Lookback (3 folds) | Sharpe |
 |-------------------------------------|-------------------------|--------|
@@ -71,7 +71,7 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Momentum.ipynb>
 [9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Momentum.ipynb>
 
-[10]: <>
+[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Short-term%20Reversal.ipynb>
 [11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Short-term%20Reversal.ipynb>
 [12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Skew.ipynb>
 [13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
