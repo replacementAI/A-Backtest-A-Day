@@ -33,6 +33,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW XS L/S Pos Kurt][13] | 4 Days                  | 0.288  |
 | [EW XS L/S Momentum][14] | 124 Days                | 0.211  |
 | [EW TS L/S Momentum][15] | 188 Days                | 0.181  |
+| [EW XS L/S Low Vol][16]  | 17 Days                 | 0.103  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -74,3 +75,4 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
 [14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
 [15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
+[16]: <>
