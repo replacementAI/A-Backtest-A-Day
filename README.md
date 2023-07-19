@@ -25,12 +25,12 @@ Everyday I will be backtesting a different quant strategy for the markets
 #### EW XS L/S Pos Skew
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/8a140d78-9301-44cb-89ba-c21c37ed3aff)
 
-
 | Description (Long Short) | Best Lookback (3 folds) | Sharpe |
 |--------------------------|-------------------------|--------|
 | [EW XS L/S Pos Skew][10] | 24 Days                 | 0.512  |
-| [EW XS L/S Momentum][11] | 124 Days                | 0.211  |
-| [EW TS L/S Momentum][12] | 188 Days                | 0.181  |
+| [EW XS L/S Neg Skew][11] | 107 Days                | 0.355  |
+| [EW XS L/S Momentum][12] | 124 Days                | 0.211  |
+| [EW TS L/S Momentum][13] | 188 Days                | 0.181  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -67,5 +67,6 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Momentum.ipynb>
 
 [10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Skew.ipynb>
-[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
-[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
+[11]: <>
+[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
+[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
