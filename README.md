@@ -23,6 +23,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 ### Best Long/Short Strategies
 
 #### EW XS L/S Pos Skew
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/8a140d78-9301-44cb-89ba-c21c37ed3aff)
 
 
 | Description (Long Short) | Best Lookback (3 folds) | Sharpe |
@@ -65,6 +66,6 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20Long-Only%20Momentum.ipynb>
 [9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20Long-Only%20Momentum.ipynb>
 
-[10]: <>
+[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Skew.ipynb>
 [11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
 [12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
