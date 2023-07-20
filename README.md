@@ -30,12 +30,13 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW XS L/S Short-term Reversal][10] | 6 Days                  | 0.688  |
 | [EW TS L/S Short-term Reversal][11] | 4 Days                  | 0.522  |
 | [EW XS L/S Pos Skew][12]            | 24 Days                 | 0.512  |
-| [EW XS L/S Neg Kurt][13]            | 130 Days                | 0.384  |
-| [EW XS L/S Neg Skew][14]            | 107 Days                | 0.355  |
-| [EW XS L/S Pos Kurt][15]            | 4 Days                  | 0.288  |
-| [EW XS L/S Momentum][16]            | 124 Days                | 0.211  |
-| [EW TS L/S Momentum][17]            | 188 Days                | 0.181  |
-| [EW XS L/S Low Vol][18]             | 17 Days                 | 0.103  |
+| [EW TS L/S Mean Reversion][13]      | 3 Days                  | 0.443  |
+| [EW XS L/S Neg Kurt][14]            | 130 Days                | 0.384  |
+| [EW XS L/S Neg Skew][15]            | 107 Days                | 0.355  |
+| [EW XS L/S Pos Kurt][16]            | 4 Days                  | 0.288  |
+| [EW XS L/S Momentum][17]            | 124 Days                | 0.211  |
+| [EW TS L/S Momentum][18]            | 188 Days                | 0.181  |
+| [EW XS L/S Low Vol][19]             | 17 Days                 | 0.103  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -74,9 +75,10 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Short-term%20Reversal.ipynb>
 [11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Short-term%20Reversal.ipynb>
 [12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Skew.ipynb>
-[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
-[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Skew.ipynb>
-[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
-[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
-[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
-[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
+[13]: <>
+[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
+[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Skew.ipynb>
+[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
+[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
+[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
+[19]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
