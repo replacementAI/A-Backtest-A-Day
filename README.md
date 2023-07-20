@@ -40,6 +40,10 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Ranked Long-Only Strategies
 
+#### RW XS Long-only Neg Skew
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/275d18d6-dd4d-455f-8fd5-0f20a1dbfcae)
+
+
 | Description (Long-only)        | Best Lookback (3 folds) | Sharpe |
 |--------------------------------|-------------------------|--------|
 | [RW XS Long-only Neg Skew][20] | 111 Days                | 0.572  |
@@ -94,7 +98,7 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
 [19]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
 
-[20]: <>
+[20]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Skew.ipynb>
 [21]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
 [22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
 [23]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
