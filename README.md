@@ -45,6 +45,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [RW XS Long-only Pos Kurt][20] | 5 Days                  | 0.524  |
 | [RW XS Long-only Momentum][21] | 108 Days                | 0.444  |
 | [RW TS Long-only Momentum][22] | 191 Days                | 0.439  |
+| [RW XS Long-only Neg Kurt][23] | 51 Days                 | 0.433  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -95,3 +96,4 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [20]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
 [21]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
 [22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
+[23]: <>
