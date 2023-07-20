@@ -3,7 +3,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ## Backtested Strategies
 
-### Best Long Only Strategies
+### Best Equal Weight Long Only Strategies
 
 #### EW XS Long-Only Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
@@ -20,7 +20,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW TS Long-Only Momentum][8]            | 188 Days                | 0.504  |
 | [EW XS Long-Only Momentum][9]            | 124 Days                | 0.503  |
 
-### Best Long/Short Strategies
+### Best Equal Weight Long/Short Strategies
 
 #### EW XS L/S Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/64de2acd-6530-4f24-9ee3-c44c15f67e91)
@@ -37,6 +37,8 @@ Everyday I will be backtesting a different quant strategy for the markets
 | [EW XS L/S Momentum][17]            | 124 Days                | 0.211  |
 | [EW TS L/S Momentum][18]            | 188 Days                | 0.181  |
 | [EW XS L/S Low Vol][19]             | 17 Days                 | 0.103  |
+
+### Best Ranked Long-Only Strategies
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
