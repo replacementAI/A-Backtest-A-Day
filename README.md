@@ -75,7 +75,7 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Short-term%20Reversal.ipynb>
 [11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Short-term%20Reversal.ipynb>
 [12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Skew.ipynb>
-[13]: <>
+[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Mean%20Reversion.ipynb>
 [14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
 [15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Neg%20Skew.ipynb>
 [16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
