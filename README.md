@@ -60,6 +60,7 @@ First I will plot the cumulative return of each strategy over the entire sample,
 - Pos = Positive
 - Neg = Negative
 - Opp = Opposite
+- RW = Rank Weight
 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
