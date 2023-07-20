@@ -40,6 +40,10 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Ranked Long-Only Strategies
 
+| Description (Long-only)        | Best Lookback (3 folds) | Sharpe |
+|--------------------------------|-------------------------|--------|
+| [RW TS Long-only Momentum][20] | 191 Days                | 0.439  |
+
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
 ### Sharpe Ratio
@@ -85,3 +89,5 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20XS%20L%5CS%20Momentum.ipynb>
 [18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
 [19]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
+
+[20]: <>
