@@ -47,10 +47,11 @@ Everyday I will be backtesting a different quant strategy for the markets
 | Description (Long-only)        | Best Lookback (3 folds) | Sharpe |
 |--------------------------------|-------------------------|--------|
 | [RW XS Long-only Neg Skew][20] | 111 Days                | 0.572  |
-| [RW XS Long-only Pos Kurt][21] | 5 Days                  | 0.524  |
-| [RW XS Long-only Momentum][22] | 108 Days                | 0.444  |
-| [RW TS Long-only Momentum][23] | 191 Days                | 0.439  |
-| [RW XS Long-only Neg Kurt][24] | 51 Days                 | 0.433  |
+| [RW XS Long-only Pos Skew][21] | 6 Days                  | 0.546  |
+| [RW XS Long-only Pos Kurt][22] | 5 Days                  | 0.524  |
+| [RW XS Long-only Momentum][23] | 108 Days                | 0.444  |
+| [RW TS Long-only Momentum][24] | 191 Days                | 0.439  |
+| [RW XS Long-only Neg Kurt][25] | 51 Days                 | 0.433  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -99,7 +100,8 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [19]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
 
 [20]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Skew.ipynb>
-[21]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
-[22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
-[23]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
-[24]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
+[21]: <>
+[22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
+[23]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
+[24]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
+[25]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
