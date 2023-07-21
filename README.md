@@ -41,6 +41,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 ### Best Ranked Long-Only Strategies
 
 #### RW XS Long-only Short-Term Reversal
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/8de6b6d0-bdf5-47c2-a6f8-87b632e3e6a9)
 
 | Description (Long-only)                   | Best Lookback (3 folds) | Sharpe |
 |-------------------------------------------|-------------------------|--------|
