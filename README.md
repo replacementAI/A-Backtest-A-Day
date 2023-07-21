@@ -5,7 +5,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Equal Weight Long Only Strategies
 
-#### XS Long-Only Short-term Reversal
+#### XS Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
 
 | Description (Long Only)                  | Best Lookback (3 folds) | Sharpe |
@@ -22,7 +22,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Equal Weight Long/Short Strategies
 
-#### XS L/S Short-term Reversal
+#### XS Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/64de2acd-6530-4f24-9ee3-c44c15f67e91)
 
 | Description (Long Short)            | Best Lookback (3 folds) | Sharpe |
@@ -40,7 +40,7 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Ranked Long-Only Strategies
 
-#### XS Long-only Short-Term Reversal
+#### XS Short-Term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/8de6b6d0-bdf5-47c2-a6f8-87b632e3e6a9)
 
 | Description (Long-only)                   | Best Lookback (3 folds) | Sharpe |
