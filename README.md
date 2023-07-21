@@ -40,8 +40,8 @@ Everyday I will be backtesting a different quant strategy for the markets
 
 ### Best Ranked Long-Only Strategies
 
-#### RW XS Long-only Neg Skew
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/275d18d6-dd4d-455f-8fd5-0f20a1dbfcae)
+#### RW TS Long-only Short-Term Reversal
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/d0aa16f0-e46b-4d49-b51f-37d2e62e264c)
 
 | Description (Long-only)                   | Best Lookback (3 folds) | Sharpe |
 |-------------------------------------------|-------------------------|--------|
