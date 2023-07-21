@@ -1,5 +1,5 @@
 # A Backtest A Day
-Everyday I will be backtesting a different quant strategy for the markets
+Everyday I will backtest a different quant strategy for the markets!
 
 ## Backtested Strategies
 
