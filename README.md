@@ -43,15 +43,16 @@ Everyday I will be backtesting a different quant strategy for the markets
 #### RW XS Long-only Neg Skew
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/275d18d6-dd4d-455f-8fd5-0f20a1dbfcae)
 
-| Description (Long-only)        | Best Lookback (3 folds) | Sharpe |
-|--------------------------------|-------------------------|--------|
-| [RW XS Long-only Neg Skew][20] | 111 Days                | 0.572  |
-| [RW XS Long-only Pos Skew][21] | 6 Days                  | 0.546  |
-| [RW XS Long-only Pos Kurt][22] | 5 Days                  | 0.524  |
-| [RW XS Long-Only Low Vol][23]  | 13 Days                 | 0.513  |
-| [RW XS Long-only Momentum][24] | 108 Days                | 0.444  |
-| [RW TS Long-only Momentum][25] | 191 Days                | 0.439  |
-| [RW XS Long-only Neg Kurt][26] | 51 Days                 | 0.433  |
+| Description (Long-only)                   | Best Lookback (3 folds) | Sharpe |
+|-------------------------------------------|-------------------------|--------|
+| [RW TS Long-only Short-Term Reversal][20] | 4 Days                  | 0.626  |
+| [RW XS Long-only Neg Skew][21]            | 111 Days                | 0.572  |
+| [RW XS Long-only Pos Skew][22]            | 6 Days                  | 0.546  |
+| [RW XS Long-only Pos Kurt][23]            | 5 Days                  | 0.524  |
+| [RW XS Long-Only Low Vol][24]             | 13 Days                 | 0.513  |
+| [RW XS Long-only Momentum][25]            | 108 Days                | 0.444  |
+| [RW TS Long-only Momentum][26]            | 191 Days                | 0.439  |
+| [RW XS Long-only Neg Kurt][27]            | 51 Days                 | 0.433  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -99,10 +100,11 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW%20TS%20L%5CS%20Momentum.ipynb>
 [19]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/EW-XS-L%5CS-Low-Vol.ipynb>
 
-[20]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Skew.ipynb>
-[21]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Pos%20Skew.ipynb>
-[22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
-[23]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Low%20Vol.ipynb>
-[24]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
-[25]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
-[26]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
+[20]: <>
+[21]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Skew.ipynb>
+[22]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Pos%20Skew.ipynb>
+[23]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Pos%20Kurtosis.ipynb>
+[24]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-Only%20Low%20Vol.ipynb>
+[25]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Momentum.ipynb>
+[26]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
+[27]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
