@@ -55,6 +55,14 @@ Everyday I will backtest a different quant strategy for the markets!
 | [RW TS Long-only Momentum][27]            | 191 Days                | 0.439  |
 | [RW XS Long-only Neg Kurt][28]            | 51 Days                 | 0.433  |
 
+### Best Ranked Long/Short Strategies
+
+#### pLACEHOLDER
+
+| Description (Long/Short) | Best Lookback (3 folds) | Sharpe |
+|--------------------------|-------------------------|--------|
+| [RW XS L/S Momentum][29] | 241 Days                | 0.033  |
+
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
 ### Sharpe Ratio
