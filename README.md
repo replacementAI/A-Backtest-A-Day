@@ -124,5 +124,5 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [27]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
 [28]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
 
-[29]: <>
+[29]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20L%5CS%20Momentum.ipynb>
 [30]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Momentum.ipynb>
