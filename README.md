@@ -59,15 +59,16 @@ Everyday I will backtest a different quant strategy for the markets!
 
 #### pLACEHOLDER
 
-| Description (Long/Short) | Best Lookback (3 folds) | Sharpe |
-|--------------------------|-------------------------|--------|
-| [RW XS L/S Neg Skew][29] | 107 Days                | 0.419  |
-| [RW XS L/S Pos Skew][30] | 7 Days                  | 0.374  |
-| [RW XS L/S Pos Kurt][31] | 23 Days                 | 0.268  |
-| [RW TS L/S Momentum][32] | 251 Days                | 0.243  |
-| [RW XS L/S Low-vol][33]  | 3 Days                  | 0.141  |
-| [RW XS L/S Neg Kurt][34] | 179 Days                | 0.116  |
-| [RW XS L/S Momentum][35] | 241 Days                | 0.033  |
+| Description (Long/Short)            | Best Lookback (3 folds) | Sharpe |
+|-------------------------------------|-------------------------|--------|
+| [RW TS L/S Short-term Reversal][29] | 4 Days                  | 0.566  |
+| [RW XS L/S Neg Skew][30]            | 107 Days                | 0.419  |
+| [RW XS L/S Pos Skew][31]            | 7 Days                  | 0.374  |
+| [RW XS L/S Pos Kurt][32]            | 23 Days                 | 0.268  |
+| [RW TS L/S Momentum][33]            | 251 Days                | 0.243  |
+| [RW XS L/S Low-vol][34]             | 3 Days                  | 0.141  |
+| [RW XS L/S Neg Kurt][35]            | 179 Days                | 0.116  |
+| [RW XS L/S Momentum][36]            | 241 Days                | 0.033  |
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -129,10 +130,11 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [27]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20Long-Only%20Momentum.ipynb>
 [28]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20Long-only%20Neg%20Kurt.ipynb>
 
-[29]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Neg%20Skew.ipynb>
-[30]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Pos%20Skew.ipynb>
-[31]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
-[32]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20L%5CS%20Momentum.ipynb>
-[33]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Low-Vol.ipynb>
-[34]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
-[35]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Momentum.ipynb>
+[29]: <>
+[30]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Neg%20Skew.ipynb>
+[31]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Pos%20Skew.ipynb>
+[32]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Pos%20Kurt.ipynb>
+[33]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20TS%20L%5CS%20Momentum.ipynb>
+[34]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Low-Vol.ipynb>
+[35]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Neg%20Kurt.ipynb>
+[36]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/RW%20XS%20L%5CS%20Momentum.ipynb>
