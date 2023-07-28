@@ -57,7 +57,8 @@ Everyday I will backtest a different quant strategy for the markets!
 
 ### Best Ranked Long/Short Strategies
 
-#### pLACEHOLDER
+#### TS Short-term Reversal
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/b1ec2cfb-45fb-4e53-8bf1-1dcd393571e4)
 
 | Description (Long/Short)            | Best Lookback (3 folds) | Sharpe |
 |-------------------------------------|-------------------------|--------|
