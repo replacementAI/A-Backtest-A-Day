@@ -62,6 +62,7 @@ Everyday I will backtest a different quant strategy for the markets!
 
 | Description (Long/Short)            | Best Lookback (3 folds) | Sharpe |
 |-------------------------------------|-------------------------|--------|
+| [RW XS L/S Short-term Reversal][29] | 3 Days                  | 0.703  |
 | [RW TS L/S Short-term Reversal][29] | 4 Days                  | 0.566  |
 | [RW XS L/S Neg Skew][30]            | 107 Days                | 0.419  |
 | [RW XS L/S Pos Skew][31]            | 7 Days                  | 0.374  |
