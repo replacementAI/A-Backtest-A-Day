@@ -1,10 +1,8 @@
-# A Backtest A Day
+# Backtested Strategies
 
-## Backtested Strategies
+## Best Equal Weight Long Only Strategies
 
-### Best Equal Weight Long Only Strategies
-
-#### XS Short-term Reversal
+### XS Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/0b92dae3-c490-4b90-be12-49f116aa7a12)
 
 | Description (Long Only)                  | Best Lookback (3 folds) | Sharpe |
@@ -19,9 +17,9 @@
 | [EW TS Long-Only Momentum][8]            | 188 Days                | 0.504  |
 | [EW XS Long-Only Momentum][9]            | 124 Days                | 0.503  |
 
-### Best Equal Weight Long/Short Strategies
+## Best Equal Weight Long/Short Strategies
 
-#### XS Short-term Reversal
+### XS Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/64de2acd-6530-4f24-9ee3-c44c15f67e91)
 
 | Description (Long Short)            | Best Lookback (3 folds) | Sharpe |
@@ -37,9 +35,9 @@
 | [EW TS L/S Momentum][18]            | 188 Days                | 0.181  |
 | [EW XS L/S Low Vol][19]             | 17 Days                 | 0.103  |
 
-### Best Ranked Long-Only Strategies
+## Best Ranked Long-Only Strategies
 
-#### XS Short-Term Reversal
+### XS Short-Term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/8de6b6d0-bdf5-47c2-a6f8-87b632e3e6a9)
 
 | Description (Long-only)                   | Best Lookback (3 folds) | Sharpe |
@@ -54,9 +52,9 @@
 | [RW TS Long-only Momentum][27]            | 191 Days                | 0.439  |
 | [RW XS Long-only Neg Kurt][28]            | 51 Days                 | 0.433  |
 
-### Best Ranked Long/Short Strategies
+## Best Ranked Long/Short Strategies
 
-#### TS Short-term Reversal
+### TS Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/b1ec2cfb-45fb-4e53-8bf1-1dcd393571e4)
 
 | Description (Long/Short)            | Best Lookback (3 folds) | Sharpe |
