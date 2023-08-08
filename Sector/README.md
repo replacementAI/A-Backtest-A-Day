@@ -1,4 +1,4 @@
-# A Backtest A Day
+# Sector ETF Strategies
 Everyday I will backtest a different quant strategy for the markets!
 
 ## Backtested Strategies
