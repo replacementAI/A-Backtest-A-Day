@@ -5,11 +5,19 @@ Everyday I will backtest a different quant strategy for the markets!
 
 ### Best Time Series Long Only Strategies
 
+####
+
 ### Best Time Series Long/Short Strategies
+
+####
 
 ### Best Cross Sectional Long-Only Strategies
 
+####
+
 ### Best Cross Sectional Long/Short Strategies
+
+####
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
