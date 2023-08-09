@@ -66,3 +66,22 @@ I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross 
 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
+
+[1]: <>
+[2]: <>
+[3]: <>
+[4]: <>
+[5]: <>
+[6]: <>
+[7]: <>
+[8]: <>
+[9]: <>
+[10]: <>
+[11]: <>
+[12]: <>
+[13]: <>
+[14]: <>
+[15]: <>
+[16]: <>
+[17]: <>
+[18]: <>
