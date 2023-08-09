@@ -21,10 +21,7 @@ The sharpe ratio is the average return of a strategy divided by its risk. Meanin
 3. Print the last row of ```weighted_signal``` using ```print(weighted_signal.iloc[-1])``` (I will update the notebooks to already have this)
 4. Go long the positive weights and (if the strategy is L/S,) short the negative weights
 ### Other
-First I will plot the cumulative return of each strategy over the entire sample, then I will the evaluate the sharpe of each strategy in a 5-fold cross validation to determine the best* parameters. The tickers used are the SPDR sector ETFs: XLE, XLU, XLB, XLK, XLI, XLV, XLF, XLP, and XLY. There are 3 reasons for using these groups of tickers:
-1. Removes survivorship bias problem from using individual tickers
-2. These ETFs were launched in 1998, giving a lot of data to work with.
-3. Lastly, it is easier for an individual investor to attempt to replicate a strategy using just a few ETFs as opposed to having to a strategy using (for example) 500 stocks.
+First I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross validation to determine the best* parameters, then I will plot the cumulative return of the lookback with the highest sharpe.
 
 ## Abbreviations
 - TS = Time Series
