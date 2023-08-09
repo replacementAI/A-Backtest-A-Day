@@ -20,9 +20,7 @@ Everyday I will backtest a different quant strategy for the markets!
 ####
 
 ## Methodology
-The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
-### Sharpe Ratio
-The sharpe ratio is the average return of a strategy divided by its risk. Meaning if a strategy has high returns, and low risk, then it will have a high sharpe ratio. Why this metric and not total profit? Because total profit only keeps track of returns of a strategy, not risk, while sharpe ratio is calculated with both, allowing you to sleep better at night, instead of wondering if you are going to make 100% or lose 100% tomorrow.
+The measured metric is the sharpe ratio.
 ### How to use strategy yourself
 1. Either download the notebook or copy the code into a Python script
 2. Remove the end date parameter from yf.download()
