@@ -31,7 +31,7 @@ I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross 
 1. Removes survivorship bias problem from using individual tickers
 2. These ETFs were launched in 1998, giving a lot of data to work with.
 3. Lastly, it is easier for an individual investor to attempt to replicate a strategy using just a few ETFs as opposed to having to a strategy using (for example) 500 stocks.
-### Correlation of each asset
+### Correlations of each asset
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/585a19d0-b4d2-41c8-95e9-8d9d723f791e)
 
 ## Abbreviations
