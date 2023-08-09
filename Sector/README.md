@@ -31,7 +31,15 @@ Everyday I will backtest a different quant strategy for the markets!
 
 ### Best Cross Sectional Long/Short Strategies
 
-####
+| Strat     | Sharpe |
+|-----------|--------|
+| STR       | 0.697  |
+| Low Skew  | 0.415  |
+| High Skew | 0.375  |
+| High Kurt | 0.282  |
+| Low Vol   | 0.093  |
+| Low Kurt  | 0.074  |
+| MOM       | 0.016  |
 
 ## Methodology
 The measured metric is the sharpe ratio.
