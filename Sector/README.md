@@ -5,15 +5,29 @@ Everyday I will backtest a different quant strategy for the markets!
 
 ### Best Time Series Long Only Strategies
 
-####
+| Strat | Sharpe |
+|-------|--------|
+| STR   | 0.599  |
+| MOM   | 0.369  |
 
 ### Best Time Series Long/Short Strategies
 
-####
+| Strat | Sharpe |
+|-------|--------|
+| STR   | 0.515  |
+| MOM   | 0.238  |
 
 ### Best Cross Sectional Long-Only Strategies
 
-####
+| Strat     | Sharpe |
+|-----------|--------|
+| STR       | 0.601  |
+| Low Skew  | 0.553  |
+| High Skew | 0.504  |
+| Low Vol   | 0.498  |
+| High Kurt | 0.495  |
+| Low Kurt  | 0.393  |
+| MOM       | 0.369  |
 
 ### Best Cross Sectional Long/Short Strategies
 
