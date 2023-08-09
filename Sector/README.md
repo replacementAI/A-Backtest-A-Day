@@ -7,39 +7,39 @@ Everyday I will backtest a different quant strategy for the markets!
 
 | Strat | Sharpe |
 |-------|--------|
-| STR   | 0.599  |
-| MOM   | 0.369  |
+| STR[1]   | 0.599  |
+| MOM[2]   | 0.369  |
 
 ### Best Time Series Long/Short Strategies
 
 | Strat | Sharpe |
 |-------|--------|
-| STR   | 0.515  |
-| MOM   | 0.238  |
+| STR[3]   | 0.515  |
+| MOM[4]   | 0.238  |
 
 ### Best Cross Sectional Long-Only Strategies
 
 | Strat     | Sharpe |
 |-----------|--------|
-| STR       | 0.601  |
-| Low Skew  | 0.553  |
-| High Skew | 0.504  |
-| Low Vol   | 0.498  |
-| High Kurt | 0.495  |
-| Low Kurt  | 0.393  |
-| MOM       | 0.369  |
+| STR[5]       | 0.601  |
+| Low Skew[6]  | 0.553  |
+| High Skew[7] | 0.504  |
+| Low Vol[8]   | 0.498  |
+| High Kurt[9] | 0.495  |
+| Low Kurt[10]  | 0.393  |
+| MOM[11]       | 0.369  |
 
 ### Best Cross Sectional Long/Short Strategies
 
 | Strat     | Sharpe |
 |-----------|--------|
-| STR       | 0.697  |
-| Low Skew  | 0.415  |
-| High Skew | 0.375  |
-| High Kurt | 0.282  |
-| Low Vol   | 0.093  |
-| Low Kurt  | 0.074  |
-| MOM       | 0.016  |
+| STR[12]       | 0.697  |
+| Low Skew[13]  | 0.415  |
+| High Skew[14] | 0.375  |
+| High Kurt[15] | 0.282  |
+| Low Vol[16]   | 0.093  |
+| Low Kurt[17]  | 0.074  |
+| MOM[18]       | 0.016  |
 
 ## Methodology
 The measured metric is the sharpe ratio.
