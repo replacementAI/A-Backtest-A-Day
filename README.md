@@ -20,6 +20,9 @@ Everyday I will backtest a different quant strategy for the markets!
 #### Short-term Reversal
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c817fa61-c873-401b-8d9d-4f8c94960eb0)
 
+## Types of Strategies
+- [Sector Rotation][1]
+
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
 ### Sharpe Ratio
@@ -42,3 +45,5 @@ First I will the evaluate the sharpe of each lookback of a strategy in a 5-fold 
 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
+
+[1]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Sector>
