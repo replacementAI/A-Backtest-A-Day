@@ -33,6 +33,7 @@ The sharpe ratio is the average return of a strategy divided by its risk. Meanin
 4. Go long the positive weights and (if the strategy is L/S,) short the negative weights
 ### Other
 First I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross validation to determine the best* parameters, then I will plot the cumulative return of the lookback with the highest sharpe.
+These backtests DO NOT take fees/slippage into account, in my opinion this isnt a problem for the long-only strategies, but needs to be considered for long/short strategies.
 
 ## Abbreviations
 - TS = Time Series
