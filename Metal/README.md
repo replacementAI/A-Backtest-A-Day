@@ -6,39 +6,39 @@
 
 | Strat | Sharpe |
 |-------|--------|
-| [STR][1]   | 0.599  |
-| [MOM][2]   | 0.369  |
+| [MOM][1]   | 0.615  |
+| [STR][2]   | 0.480  |
 
 ### Best Time Series Long/Short Strategies
 
 | Strat | Sharpe |
 |-------|--------|
-| [STR][3]   | 0.515  |
-| [MOM][4]   | 0.238  |
+| [MOM][3]   | 0.444  |
+| [STR][4]   | 0.359  |
 
 ### Best Cross Sectional Long-Only Strategies
 
-| Strat     | Sharpe |
-|-----------|--------|
-| [STR][5]       | 0.601  |
-| [Low Skew][6]  | 0.553  |
-| [High Skew][7] | 0.504  |
-| [Low Vol][8]   | 0.498  |
-| [High Kurt][9] | 0.495  |
-| [Low Kurt][10]  | 0.393  |
-| [MOM][11]       | 0.369  |
+| Strat          | Sharpe |
+|----------------|--------|
+| [Low Skew][5]  | 0.508  |
+| [Low Kurt][6]  | 0.460  |
+| [High Kurt][7] | 0.371  |
+| [MOM][8]       | 0.357  |
+| [High Skew][9] | 0.286  |
+| [STR][10]      | 0.249  |
+| [Low-Vol][11]  | 0.212  |
 
 ### Best Cross Sectional Long/Short Strategies
 
-| Strat     | Sharpe |
-|-----------|--------|
-| [STR][12]       | 0.697  |
-| [Low Skew][13]  | 0.415  |
-| [High Skew][14] | 0.375  |
-| [High Kurt][15] | 0.282  |
-| [Low Vol][16]   | 0.093  |
-| [Low Kurt][17]  | 0.074  |
-| [MOM][18]       | 0.016  |
+| Strat           | Sharpe |
+|-----------------|--------|
+| [Low Skew][12]  | 0.658  |
+| [MOM][13]       | 0.522  |
+| [High Kurt][14] | 0.514  |
+| [Low Kurt][15]  | 0.223  |
+| [High Skew][16] | 0.187  |
+| [STR][17]       | 0.166  |
+| [Low-Vol][18]   | -0.089 |
 
 ## Methodology
 The measured metric is the sharpe ratio.
