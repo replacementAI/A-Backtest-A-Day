@@ -39,7 +39,7 @@ These backtests DO NOT take fees/slippage into account, in my opinion this isnt 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
 
-[1]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/README.md>
-[2]:<>
+[1]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector>
+[2]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Metal>
 [3]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20L%5CS%20STR.ipynb>
 [4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
