@@ -63,21 +63,21 @@ I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
 
-[1]:
-[2]:
-[3]:
-[4]:
-[5]:
-[6]:
-[7]:
-[8]:
-[9]:
-[10]:
-[11]:
-[12]:
-[13]:
-[14]:
-[15]:
-[16]:
-[17]:
-[18]:
+[1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20MOM.ipynb>
+[2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20STR.ipynb>
+[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20MOM.ipynb>
+[4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20STR.ipynb>
+[5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low%20Skew.ipynb>
+[6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low%20Kurt.ipynb>
+[7]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20High%20Kurt.ipynb>
+[8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20MOM.ipynb>
+[9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20High%20Skew.ipynb>
+[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20STR.ipynb>
+[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low-Vol.ipynb>
+[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Skew.ipynb>
+[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20MOM.ipynb>
+[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20High%20Kurt.ipynb>
+[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Kurt.ipynb>
+[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20High%20Skew.ipynb>
+[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20STR.ipynb>
+[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low-Vol.ipynb>
