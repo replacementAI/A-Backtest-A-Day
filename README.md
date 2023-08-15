@@ -7,20 +7,12 @@ Everyday I will backtest a different quant strategy for the markets!
 
 ## Best Backtested Strategies
 
-### Best Time Series Long Only Strategy
-#### Short-term Reversal [code][3]
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/22948922-2b44-4a50-b300-6019e5b0b562)
-
 ### Best Time Series Long/Short Strategy
-#### Short-term Reversal [code][4]
+#### Short-term Reversal [code][3]
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/dcc697d1-ab34-4d98-87a2-488d0dff2104)
 
-### Best Cross Sectional Long-Only Strategy
-#### Short-term Reversal [code][5]
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/20e47ff3-dc6d-4077-89b2-c48417949079)
-
 ### Best Cross Sectional Long/Short Strategy
-#### Short-term Reversal [code][6]
+#### Short-term Reversal [code][4]
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c817fa61-c873-401b-8d9d-4f8c94960eb0)
 
 ## Methodology
@@ -49,7 +41,5 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 
 [1]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/README.md>
 [2]:<>
-[3]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20Long-Only%20STR.ipynb>
-[4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20L%5CS%20STR.ipynb>
-[5]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20Long-Only%20STR.ipynb>
-[6]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
+[3]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20L%5CS%20STR.ipynb>
+[4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
