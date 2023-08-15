@@ -9,12 +9,16 @@
 | [MOM][1]   | 0.615  |
 | [STR][2]   | 0.480  |
 
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/728aed15-53d2-49c2-82c1-204f4f5488fe)
+
 ### Best Time Series Long/Short Strategies
 
 | Strat | Sharpe |
 |-------|--------|
 | [MOM][3]   | 0.444  |
 | [STR][4]   | 0.359  |
+
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/1ae5e4fc-28c6-447b-831c-6522d3ae8d70)
 
 ### Best Cross Sectional Long-Only Strategies
 
@@ -28,6 +32,8 @@
 | [STR][10]      | 0.249  |
 | [Low-Vol][11]  | 0.212  |
 
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/244a42a6-fbea-4b44-95f9-4b8b9942eb54)
+
 ### Best Cross Sectional Long/Short Strategies
 
 | Strat           | Sharpe |
@@ -39,6 +45,8 @@
 | [High Skew][16] | 0.187  |
 | [STR][17]       | 0.166  |
 | [Low-Vol][18]   | -0.089 |
+
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/bebc2b6f-837e-4dcb-88cf-81813b3db22b)
 
 ## Methodology
 The measured metric is the sharpe ratio.
