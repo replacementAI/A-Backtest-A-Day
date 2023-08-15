@@ -48,12 +48,9 @@ The measured metric is the sharpe ratio.
 3. Print the last row of ```weighted_signal``` using ```print(weighted_signal.iloc[-1])``` (I will update the notebooks to already have this)
 4. Go long the positive weights and (if the strategy is L/S,) short the negative weights
 ### Other
-I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross validation to determine the best* parameters. The tickers used are the SPDR sector ETFs: XLE, XLU, XLB, XLK, XLI, XLV, XLF, XLP, and XLY. There are 3 reasons for using these groups of tickers:
-1. Removes survivorship bias problem from using individual tickers
-2. These ETFs were launched in 1998, giving a lot of data to work with.
-3. Lastly, it is easier for an individual investor to attempt to replicate a strategy using just a few ETFs as opposed to having to a strategy using (for example) 500 stocks.
+I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross validation to determine the best* parameters. The tickers used are these ETFs: GLD, SLV, PPLT, and PALL. I use ETFs because its an easy to use asset an individual investor to attempt to replicate a strategy with.
 ### Correlations of each asset
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/585a19d0-b4d2-41c8-95e9-8d9d723f791e)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/def50a65-cdd8-472b-bdd6-81a2497d9953)
 
 ## Abbreviations
 - TS = Time Series
