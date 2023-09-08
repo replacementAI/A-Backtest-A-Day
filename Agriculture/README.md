@@ -6,8 +6,8 @@
 
 | Strat | Sharpe |
 |-------|--------|
-| [MOM][1]   | 0.615  |
-| [STR][2]   | 0.480  |
+| [STR][1]   | 0.693  |
+| [MOM][2]   | 0.065  |
 
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/728aed15-53d2-49c2-82c1-204f4f5488fe)
 
@@ -22,15 +22,15 @@
 
 ### Best Cross Sectional Long-Only Strategies
 
-| Strat          | Sharpe |
-|----------------|--------|
-| [Low Skew][5]  | 0.508  |
-| [Low Kurt][6]  | 0.460  |
-| [High Kurt][7] | 0.371  |
-| [MOM][8]       | 0.357  |
-| [High Skew][9] | 0.286  |
-| [STR][10]      | 0.249  |
-| [Low-Vol][11]  | 0.212  |
+| Strat           | Sharpe |
+|-----------------|--------|
+| [STR][5]        | 0.681  |
+| [Low Kurt][6]   | 0.223  |
+| [Low Vol][7]    | 0.124  |
+| [Low Skew][8]   | 0.077  |
+| [High Kurt][9]  | 0.043  |
+| [High Skew][10] | 0.028  |
+| [MOM][11]       | -0.037 |
 
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/244a42a6-fbea-4b44-95f9-4b8b9942eb54)
 
@@ -38,13 +38,13 @@
 
 | Strat           | Sharpe |
 |-----------------|--------|
-| [Low Skew][12]  | 0.658  |
-| [MOM][13]       | 0.522  |
-| [High Kurt][14] | 0.514  |
-| [Low Kurt][15]  | 0.223  |
-| [High Skew][16] | 0.187  |
-| [STR][17]       | 0.166  |
-| [Low-Vol][18]   | -0.089 |
+| [STR][12]       | 1.53   |
+| [Low Kurt][13]  | 0.586  |
+| [Low Vol][14]   | 0.494  |
+| [Low Skew][15]  | 0.454  |
+| [High Kurt][16] | 0.208  |
+| [High Skew][17] | 0.163  |
+| [MOM][18]       | 0.073  |
 
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/bebc2b6f-837e-4dcb-88cf-81813b3db22b)
 
@@ -71,8 +71,8 @@ I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross 
 ## Credits
 Code was provided by @quant_arb on Twitter, I added the cross-validation to try to better pick parameters.
 
-[1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20MOM.ipynb>
-[2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20STR.ipynb>
+[1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20STR.ipynb>
+[2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20MOM.ipynb>
 [3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20MOM.ipynb>
 [4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20STR.ipynb>
 [5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low%20Skew.ipynb>
