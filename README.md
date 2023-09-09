@@ -42,6 +42,6 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 
 [1]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/README.md>
 [2]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Metal/README.md>
-[3]:<>
+[3]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Agriculture/README.md>
 [4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20L%5CS%20STR.ipynb>
 [5]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
