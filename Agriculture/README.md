@@ -18,7 +18,7 @@
 | [MOM][3]   | 0.444  |
 | [STR][4]   | 0.359  |
 
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/1ae5e4fc-28c6-447b-831c-6522d3ae8d70)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c83a9562-0798-44c2-a81e-564e31ace65b)
 
 ### Best Cross Sectional Long-Only Strategies
 
