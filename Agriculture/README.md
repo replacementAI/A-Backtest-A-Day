@@ -46,7 +46,8 @@
 | [High Skew][17] | 0.163  |
 | [MOM][18]       | 0.073  |
 
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/bebc2b6f-837e-4dcb-88cf-81813b3db22b)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/bb2dfc47-968f-493d-9aaa-a5d47af7fd36)
+
 
 ## Methodology
 The measured metric is the sharpe ratio.
@@ -73,19 +74,19 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 
 [1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20STR.ipynb>
 [2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20MOM.ipynb>
-[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20MOM.ipynb>
-[4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20L%5CS%20STR.ipynb>
-[5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low%20Skew.ipynb>
-[6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low%20Kurt.ipynb>
-[7]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20High%20Kurt.ipynb>
-[8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20MOM.ipynb>
-[9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20High%20Skew.ipynb>
-[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20STR.ipynb>
-[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20Long-Only%20Low-Vol.ipynb>
-[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Skew.ipynb>
-[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20MOM.ipynb>
-[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20High%20Kurt.ipynb>
-[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Kurt.ipynb>
-[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20High%20Skew.ipynb>
-[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20STR.ipynb>
-[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low-Vol.ipynb>
+[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20MOM.ipynb>
+[4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20STR.ipynb>
+[5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low%20Skew.ipynb>
+[6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low%20Kurt.ipynb>
+[7]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20High%20Kurt.ipynb>
+[8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20MOM.ipynb>
+[9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20High%20Skew.ipynb>
+[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20STR.ipynb>
+[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low-Vol.ipynb>
+[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low%20Skew.ipynb>
+[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20MOM.ipynb>
+[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20High%20Kurt.ipynb>
+[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low%20Kurt.ipynb>
+[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20High%20Skew.ipynb>
+[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20STR.ipynb>
+[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low-Vol.ipynb>
