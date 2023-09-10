@@ -32,7 +32,7 @@
 | [High Skew][10] | 0.028  |
 | [MOM][11]       | -0.037 |
 
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/244a42a6-fbea-4b44-95f9-4b8b9942eb54)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/56e87a5f-4a84-4167-b13a-8e45cc662799)
 
 ### Best Cross Sectional Long/Short Strategies
 
