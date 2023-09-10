@@ -59,7 +59,8 @@ The measured metric is the sharpe ratio.
 ### Other
 I will the evaluate the sharpe of each lookback of a strategy in a 5-fold cross validation to determine the best* parameters. The tickers used are these ETFs: GLD, SLV, PPLT, and PALL. I use ETFs because its an easy to use asset an individual investor to attempt to replicate a strategy with.
 ### Correlations of each asset
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/def50a65-cdd8-472b-bdd6-81a2497d9953)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/31e4da58-8ddc-46cf-bc42-32f9423a17e5)
+
 
 ## Abbreviations
 - TS = Time Series
