@@ -9,7 +9,7 @@
 | [STR][1]   | 0.693  |
 | [MOM][2]   | 0.065  |
 
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/728aed15-53d2-49c2-82c1-204f4f5488fe)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/4e42db87-c13c-4cd1-86fb-defde87eac53)
 
 ### Best Time Series Long/Short Strategies
 
