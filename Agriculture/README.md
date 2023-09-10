@@ -79,18 +79,18 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20MOM.ipynb>
 [4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20STR.ipynb>
 
-[5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20STR.ipynb>
-[6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20Low%20Kurt.ipynb>
-[7]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20Low-Vol.ipynb>
-[8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20Low%20Skew.ipynb>
-[9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20High%20Kurt.ipynb>
-[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20High%20Skew.ipynb>
-[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20Long-Only%20MOM.ipynb>
+[5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20STR.ipynb>
+[6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low%20Kurt.ipynb>
+[7]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low-Vol.ipynb>
+[8]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low%20Skew.ipynb>
+[9]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20High%20Kurt.ipynb>
+[10]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20High%20Skew.ipynb>
+[11]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20MOM.ipynb>
 
-[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20STR.ipynb>
-[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20Low%20Kurt.ipynb>
-[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20Low-Vol.ipynb>
-[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20Low%20Skew.ipynb>
-[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20High%20Kurt.ipynb>
-[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20High%20Skew.ipynb>
-[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/3.0/Agriculture/XS%20L%5CS%20MOM.ipynb>
+[12]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20STR.ipynb>
+[13]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low%20Kurt.ipynb>
+[14]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low-Vol.ipynb>
+[15]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20Low%20Skew.ipynb>
+[16]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20High%20Kurt.ipynb>
+[17]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20High%20Skew.ipynb>
+[18]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20MOM.ipynb>
