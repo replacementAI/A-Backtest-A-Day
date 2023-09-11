@@ -55,4 +55,4 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [6]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20MOM.ipynb>
 [7]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Skew.ipynb>
 [8]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20STR.ipynb>
-[9]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20STR.ipynb>
+[9]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20STR.ipynb>
