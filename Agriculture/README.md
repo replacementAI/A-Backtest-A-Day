@@ -15,8 +15,8 @@
 
 | Strat | Sharpe |
 |-------|--------|
-| [MOM][3]   | 0.444  |
-| [STR][4]   | 0.359  |
+| [STR][3]   | 1.844  |
+| [MOM][4]   | 0.362  |
 
 ![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c83a9562-0798-44c2-a81e-564e31ace65b)
 
@@ -76,8 +76,8 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 [1]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20STR.ipynb>
 [2]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20MOM.ipynb>
 
-[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20MOM.ipynb>
-[4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20STR.ipynb>
+[3]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20STR.ipynb>
+[4]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20L%5CS%20MOM.ipynb>
 
 [5]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20STR.ipynb>
 [6]: <https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20Long-Only%20Low%20Kurt.ipynb>
