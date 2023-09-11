@@ -4,16 +4,24 @@ Everyday I will backtest a different quant strategy for the markets!
 ## Types of Strategies
 - [Sector Rotation][1]
 - [Precious Metals][2]
+- [Agriculture Commodities][3]
 
-## Best Backtested Strategies
+## Best Long Only vs Long/Short Backtested Strategies
 
-### Best Time Series Long/Short Strategy
-#### Short-term Reversal [code][3]
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/dcc697d1-ab34-4d98-87a2-488d0dff2104)
+### Best [Sector Rotation][1] Strategies
+#### [Best Long Only][4]
+#### [Best Long Short][5]
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c862d5c7-5f4c-4c13-a485-6873e37cb580)
 
-### Best Cross Sectional Long/Short Strategy
-#### Short-term Reversal [code][4]
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/c817fa61-c873-401b-8d9d-4f8c94960eb0)
+### Best [Precious Metal][2] Strategies
+#### [Best Long Only][6]
+#### [Best Long Short][7]
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/ebc95a5a-a228-4beb-9b4f-6eaafcca9d5f)
+
+### Best [Agriculture Commodity][3] Strategies
+#### [Best Long Only][8]
+#### [Best Long Short][9]
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/88afc716-5dde-47da-a185-491e962e0922)
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
@@ -41,5 +49,10 @@ Code was provided by @quant_arb on Twitter, I added the cross-validation to try 
 
 [1]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/README.md>
 [2]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Metal/README.md>
-[3]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20L%5CS%20STR.ipynb>
-[4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
+[3]:<https://github.com/replacementAI/A-Backtest-A-Day/tree/main/Agriculture/README.md>
+[4]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/TS%20Long-Only%20STR.ipynb>
+[5]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Sector/XS%20L%5CS%20STR.ipynb>
+[6]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/TS%20Long-Only%20MOM.ipynb>
+[7]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Metal/XS%20L%5CS%20Low%20Skew.ipynb>
+[8]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/TS%20Long-Only%20STR.ipynb>
+[9]:<https://github.com/replacementAI/A-Backtest-A-Day/blob/main/Agriculture/XS%20L%5CS%20STR.ipynb>
