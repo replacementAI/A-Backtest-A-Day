@@ -21,7 +21,7 @@ Everyday I will backtest a different quant strategy for the markets!
 ### Best [Agriculture Commodity][3] Strategies
 #### [Best Long Only][8]
 #### [Best Long Short][9]
-![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/88afc716-5dde-47da-a185-491e962e0922)
+![image](https://github.com/replacementAI/A-Backtest-A-Day/assets/55959390/868442b5-231f-48e7-84ab-d4cf2fee4f92)
 
 ## Methodology
 The main metric I will be using to measure a strategy is the sharpe ratio. What is the sharpe ratio?
